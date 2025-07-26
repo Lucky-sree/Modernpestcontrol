@@ -1,4 +1,4 @@
 module.exports = {
-  siteUrl: 'https://modernpestvizag.vercel.app',
+  siteUrl: 'https://modernpestcontrol.vercel.app',
   generateRobotsTxt: true,
 };
