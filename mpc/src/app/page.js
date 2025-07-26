@@ -19,7 +19,7 @@ export const metadata = {
     icon: '/favicon.ico',
   },
    other: {
-    'google-site-verification': 'google-site-verification=wLV-lHgeC7XpDY2JIwjdBJ-yC4qakDaqdJ7itwlhAck',
+    'google-site-verification': 'wLV-lHgeC7XpDY2JIwjdBJ-yC4qakDaqdJ7itwlhAck',
   },
 };
 
