@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://modernpestcontrol.vercel.app
+
+# Sitemaps
+Sitemap: https://modernpestcontrol.vercel.app/sitemap.xml
